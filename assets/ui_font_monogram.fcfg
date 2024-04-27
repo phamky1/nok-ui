@@ -1,0 +1,16 @@
+{
+  "codename": "monogram",
+  "ttf_path": "/assets/monogram-extended.ttf",
+  "bin_path": "/assets/ui_font_monogram.bin",
+  "c_path": "/assets/ui_font_monogram.c",
+  "cfg_path": "/assets/ui_font_monogram.fcfg",
+  "size": 16,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

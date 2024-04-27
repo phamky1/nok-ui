@@ -1,0 +1,16 @@
+{
+  "codename": "pixel",
+  "ttf_path": "/assets/pixel_lcd_7.ttf",
+  "bin_path": "/assets/ui_font_pixel.bin",
+  "c_path": "/assets/ui_font_pixel.c",
+  "cfg_path": "/assets/ui_font_pixel.fcfg",
+  "size": 120,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
