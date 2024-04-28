@@ -1,0 +1,16 @@
+{
+  "codename": "NeonSans60",
+  "ttf_path": "/assets/NeonSans.otf",
+  "bin_path": "/assets\\ui_font_NeonSans60.bin",
+  "c_path": "/assets\\ui_font_NeonSans60.c",
+  "cfg_path": "/assets\\ui_font_NeonSans60.fcfg",
+  "size": 60,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

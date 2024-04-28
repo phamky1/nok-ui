@@ -1,0 +1,16 @@
+{
+  "codename": "m04b16",
+  "ttf_path": "/assets/m04b.TTF",
+  "bin_path": "/assets\\ui_font_m04b16.bin",
+  "c_path": "/assets\\ui_font_m04b16.c",
+  "cfg_path": "/assets\\ui_font_m04b16.fcfg",
+  "size": 16,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
