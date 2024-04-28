@@ -1012,7 +1012,7 @@
                   {
                     "disabled": false,
                     "nid": 1371772689,
-                    "strtype": "IMAGE/EventHandler",
+                    "strtype": "_event/EventHandler",
                     "strval": "PRESSED",
                     "childs": [
                       {
@@ -1035,7 +1035,7 @@
                       },
                       {
                         "nid": -137925281,
-                        "strtype": "_custom/action",
+                        "strtype": "_event/action",
                         "strval": "CHANGE SCREEN",
                         "childs": [
                           {
@@ -1085,7 +1085,7 @@
                       },
                       {
                         "nid": 607953090,
-                        "strtype": "_custom/action",
+                        "strtype": "_event/action",
                         "strval": "CALL FUNCTION",
                         "childs": [
                           {
@@ -3259,7 +3259,7 @@
                       {
                         "disabled": false,
                         "nid": -1003847370,
-                        "strtype": "BUTTON/EventHandler",
+                        "strtype": "_event/EventHandler",
                         "strval": "CLICKED",
                         "childs": [
                           {
@@ -3282,7 +3282,7 @@
                           },
                           {
                             "nid": -685098833,
-                            "strtype": "_custom/action",
+                            "strtype": "_event/action",
                             "strval": "STEP SPINBOX",
                             "childs": [
                               {
@@ -3953,7 +3953,7 @@
                       {
                         "disabled": false,
                         "nid": 1306439965,
-                        "strtype": "BUTTON/EventHandler",
+                        "strtype": "_event/EventHandler",
                         "strval": "CLICKED",
                         "childs": [
                           {
@@ -3976,7 +3976,7 @@
                           },
                           {
                             "nid": -313319142,
-                            "strtype": "_custom/action",
+                            "strtype": "_event/action",
                             "strval": "STEP SPINBOX",
                             "childs": [
                               {
@@ -5230,7 +5230,7 @@
                       {
                         "disabled": false,
                         "nid": 470545607,
-                        "strtype": "BUTTON/EventHandler",
+                        "strtype": "_event/EventHandler",
                         "strval": "CLICKED",
                         "childs": [
                           {
@@ -5253,7 +5253,7 @@
                           },
                           {
                             "nid": 551956656,
-                            "strtype": "_custom/action",
+                            "strtype": "_event/action",
                             "strval": "STEP SPINBOX",
                             "childs": [
                               {
@@ -5924,7 +5924,7 @@
                       {
                         "disabled": false,
                         "nid": -632929342,
-                        "strtype": "BUTTON/EventHandler",
+                        "strtype": "_event/EventHandler",
                         "strval": "CLICKED",
                         "childs": [
                           {
@@ -5947,7 +5947,7 @@
                           },
                           {
                             "nid": -1736846218,
-                            "strtype": "_custom/action",
+                            "strtype": "_event/action",
                             "strval": "STEP SPINBOX",
                             "childs": [
                               {
@@ -6887,7 +6887,7 @@
                   {
                     "disabled": false,
                     "nid": 1252508055,
-                    "strtype": "BUTTON/EventHandler",
+                    "strtype": "_event/EventHandler",
                     "strval": "CLICKED",
                     "childs": [
                       {
@@ -6910,7 +6910,7 @@
                       },
                       {
                         "nid": 704948353,
-                        "strtype": "_custom/action",
+                        "strtype": "_event/action",
                         "strval": "CHANGE SCREEN",
                         "childs": [
                           {
@@ -6960,7 +6960,7 @@
                       },
                       {
                         "nid": 1345379708,
-                        "strtype": "_custom/action",
+                        "strtype": "_event/action",
                         "strval": "CALL FUNCTION",
                         "childs": [
                           {
@@ -7504,7 +7504,7 @@
                   {
                     "nid": -1781577395,
                     "strtype": "_style/Bg_Image",
-                    "strval": "assets/mythical-dragon-beast-anime-style.png",
+                    "strval": "assets\\mythical-dragon-beast-anime-style.png",
                     "InheritedType": 5
                   }
                 ],
@@ -7533,7 +7533,7 @@
           {
             "disabled": false,
             "nid": -2093180487,
-            "strtype": "SCREEN/EventHandler",
+            "strtype": "_event/EventHandler",
             "strval": "GESTURE_UP(GESTURE)",
             "childs": [
               {
@@ -7556,7 +7556,7 @@
               },
               {
                 "nid": -1799859448,
-                "strtype": "_custom/action",
+                "strtype": "_event/action",
                 "strval": "CHANGE SCREEN",
                 "childs": [
                   {
@@ -7609,7 +7609,7 @@
           {
             "disabled": false,
             "nid": 735835191,
-            "strtype": "SCREEN/EventHandler",
+            "strtype": "_event/EventHandler",
             "strval": "CLICKED",
             "childs": [
               {
@@ -8591,7 +8591,7 @@
               {
                 "disabled": false,
                 "nid": -80420106,
-                "strtype": "BUTTON/EventHandler",
+                "strtype": "_event/EventHandler",
                 "strval": "CLICKED",
                 "childs": [
                   {
@@ -8614,7 +8614,7 @@
                   },
                   {
                     "nid": 1855444769,
-                    "strtype": "_custom/action",
+                    "strtype": "_event/action",
                     "strval": "CHANGE SCREEN",
                     "childs": [
                       {
@@ -8868,7 +8868,7 @@
                   {
                     "nid": -724995871,
                     "strtype": "_style/Bg_Image",
-                    "strval": "assets/mythical-dragon-beast-anime-style.png",
+                    "strval": "assets\\mythical-dragon-beast-anime-style.png",
                     "InheritedType": 5
                   }
                 ],
@@ -8897,7 +8897,7 @@
           {
             "disabled": false,
             "nid": -521326844,
-            "strtype": "SCREEN/EventHandler",
+            "strtype": "_event/EventHandler",
             "strval": "SCREEN_LOAD_START",
             "childs": [
               {
@@ -8920,7 +8920,7 @@
               },
               {
                 "nid": 2012501804,
-                "strtype": "_custom/action",
+                "strtype": "_event/action",
                 "strval": "CALL FUNCTION",
                 "childs": [
                   {
@@ -8962,7 +8962,7 @@
           {
             "disabled": false,
             "nid": -461468692,
-            "strtype": "SCREEN/EventHandler",
+            "strtype": "_event/EventHandler",
             "strval": "GESTURE_UP(GESTURE)",
             "childs": [
               {
@@ -8985,7 +8985,7 @@
               },
               {
                 "nid": -811439915,
-                "strtype": "_custom/action",
+                "strtype": "_event/action",
                 "strval": "CHANGE SCREEN",
                 "childs": [
                   {
@@ -9989,59 +9989,59 @@
               },
               {
                 "disabled": false,
-                "nid": 275950027,
+                "nid": -1004653190,
                 "strtype": "BUTTON/EventHandler",
                 "strval": "CLICKED",
                 "childs": [
                   {
-                    "nid": 665021400,
+                    "nid": 697550893,
                     "strtype": "_custom/name",
-                    "strval": "Event4",
+                    "strval": "Event11",
                     "InheritedType": 10
                   },
                   {
-                    "nid": -1250332993,
+                    "nid": 1942529978,
                     "strtype": "_custom/condition_C",
                     "strval": "",
                     "InheritedType": 10
                   },
                   {
-                    "nid": 101447710,
+                    "nid": 1176698278,
                     "strtype": "_custom/condition_P",
                     "strval": "",
                     "InheritedType": 10
                   },
                   {
-                    "nid": 220597503,
+                    "nid": 2076026185,
                     "strtype": "_custom/action",
                     "strval": "CALL FUNCTION",
                     "childs": [
                       {
-                        "nid": 1771900315,
+                        "nid": 464545006,
                         "strtype": "CALL FUNCTION/Name",
                         "strval": "CALL FUNCTION",
                         "InheritedType": 10
                       },
                       {
-                        "nid": 638894654,
+                        "nid": -878836880,
                         "strtype": "CALL FUNCTION/Call",
                         "strval": "<{Function_name}>( event_struct )",
                         "InheritedType": 10
                       },
                       {
-                        "nid": -1746582129,
+                        "nid": 836635778,
                         "strtype": "CALL FUNCTION/CallC",
                         "strval": "<{Function_name}>( e );",
                         "InheritedType": 10
                       },
                       {
-                        "nid": 1840110203,
+                        "nid": -2065903627,
                         "strtype": "CALL FUNCTION/Function_name",
                         "strval": "pausePmdrTimer",
                         "InheritedType": 10
                       },
                       {
-                        "nid": -1884080033,
+                        "nid": 2065205752,
                         "strtype": "CALL FUNCTION/Dont_export_function",
                         "strval": "False",
                         "InheritedType": 2
@@ -10050,101 +10050,44 @@
                     "InheritedType": 10
                   },
                   {
-                    "nid": -1337344926,
-                    "flags": 1048576,
-                    "strtype": "_custom/action",
-                    "strval": "BASIC_PROPERTY",
-                    "childs": [
-                      {
-                        "nid": -1967081004,
-                        "strtype": "BASIC_PROPERTY/Name",
-                        "strval": "BASIC_PROPERTY",
-                        "InheritedType": 10
-                      },
-                      {
-                        "nid": 550083820,
-                        "strtype": "BASIC_PROPERTY/Call",
-                        "strval": "SetPanelProperty(<{Target}>, '<{Property}>', <{Value}>)",
-                        "InheritedType": 10
-                      },
-                      {
-                        "nid": 793716558,
-                        "strtype": "BASIC_PROPERTY/CallC",
-                        "strval": "_ui_basic_set_property(<{Target}>, _UI_BASIC_PROPERTY_<{Property}>,  <{Value}>);",
-                        "InheritedType": 10
-                      },
-                      {
-                        "nid": -1955967674,
-                        "strtype": "BASIC_PROPERTY/Target",
-                        "strval": "GUID50660549-333081S49533119",
-                        "InheritedType": 9
-                      },
-                      {
-                        "nid": -1858257228,
-                        "strtype": "BASIC_PROPERTY/Property",
-                        "strval": "Position_X",
-                        "InheritedType": 3
-                      },
-                      {
-                        "nid": -95721941,
-                        "strtype": "BASIC_PROPERTY/Value",
-                        "InheritedType": 6
-                      }
-                    ],
-                    "InheritedType": 10
-                  },
-                  {
-                    "nid": -1586925431,
+                    "nid": -576518792,
                     "strtype": "_custom/action",
                     "strval": "LABEL_PROPERTY",
                     "childs": [
                       {
-                        "nid": 583271950,
+                        "nid": -687688127,
                         "strtype": "LABEL_PROPERTY/Name",
                         "strval": "LABEL_PROPERTY",
                         "InheritedType": 10
                       },
                       {
-                        "nid": -1914465041,
+                        "nid": -463141323,
                         "strtype": "LABEL_PROPERTY/Call",
                         "strval": "SetLabelProperty(<{Target}>, '<{Property}>', '<{Value}>')",
                         "InheritedType": 10
                       },
                       {
-                        "nid": 1364533798,
+                        "nid": 1788448527,
                         "strtype": "LABEL_PROPERTY/CallC",
                         "strval": "_ui_label_set_property(<{Target}>, _UI_LABEL_PROPERTY_<{Property}>, \"<{Value}>\");",
                         "InheritedType": 10
                       },
                       {
-                        "nid": -2061543323,
+                        "nid": -1377045199,
                         "strtype": "LABEL_PROPERTY/Target",
                         "strval": "GUID50660549-333081S49533119",
                         "InheritedType": 9
                       },
                       {
-                        "nid": 382549833,
+                        "nid": -929203051,
                         "strtype": "LABEL_PROPERTY/Property",
                         "strval": "Text",
                         "InheritedType": 3
                       },
                       {
-                        "nid": 695072149,
+                        "nid": -938623514,
                         "strtype": "LABEL_PROPERTY/Value",
                         "strval": "Resume",
-                        "InheritedType": 10
-                      }
-                    ],
-                    "InheritedType": 10
-                  },
-                  {
-                    "nid": 1558408212,
-                    "strtype": "_custom/action",
-                    "strval": "NULLING CALLBACK_PROPERTY",
-                    "childs": [
-                      {
-                        "nid": -321119571,
-                        "strtype": "_custom/Call",
                         "InheritedType": 10
                       }
                     ],
@@ -10785,7 +10728,7 @@
               {
                 "disabled": false,
                 "nid": -550968114,
-                "strtype": "BUTTON/EventHandler",
+                "strtype": "_event/EventHandler",
                 "strval": "CLICKED",
                 "childs": [
                   {
@@ -10808,7 +10751,7 @@
                   },
                   {
                     "nid": 990229175,
-                    "strtype": "_custom/action",
+                    "strtype": "_event/action",
                     "strval": "CALL FUNCTION",
                     "childs": [
                       {
@@ -11080,7 +11023,7 @@
           {
             "disabled": false,
             "nid": -874773568,
-            "strtype": "SCREEN/EventHandler",
+            "strtype": "_event/EventHandler",
             "strval": "GESTURE_UP(GESTURE)",
             "childs": [
               {
@@ -11103,7 +11046,7 @@
               },
               {
                 "nid": -1077228671,
-                "strtype": "_custom/action",
+                "strtype": "_event/action",
                 "strval": "CHANGE SCREEN",
                 "childs": [
                   {
@@ -11359,7 +11302,7 @@
                   {
                     "nid": -662423960,
                     "strtype": "_style/Bg_Image",
-                    "strval": "assets/mythical-dragon-beast-anime-style.png",
+                    "strval": "assets\\mythical-dragon-beast-anime-style.png",
                     "InheritedType": 5
                   }
                 ],
@@ -11388,7 +11331,7 @@
           {
             "disabled": false,
             "nid": -1685325035,
-            "strtype": "SCREEN/EventHandler",
+            "strtype": "_event/EventHandler",
             "strval": "GESTURE_UP(GESTURE)",
             "childs": [
               {
@@ -11411,7 +11354,7 @@
               },
               {
                 "nid": 1497036657,
-                "strtype": "_custom/action",
+                "strtype": "_event/action",
                 "strval": "CHANGE SCREEN",
                 "childs": [
                   {
@@ -11503,7 +11446,7 @@
     "theme_color2": 0,
     "uiExportFolderPath": "/home/kyph-linux/03_Project/esp-project/esp-touch-panel/components/ui_app",
     "projectExportFolderPath": "/home/kyph-linux/03_Project/squareline",
-    "backup_cnt": 83,
+    "backup_cnt": 88,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.6",
     "callfuncsexport": "C_FILE",
